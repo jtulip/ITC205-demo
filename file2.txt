@@ -1,2 +1,2 @@
-file 2 version 2 maybe
+file 2 version 2 maybe and as modded by jane
 inserted extra line from fred
